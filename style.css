@@ -1,4 +1,4 @@
-/* Стили для первой страницы */
+/* Стили для 1 страницы */
 body.index {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -10,12 +10,28 @@ body.index {
     min-height: 100vh; /* Минимальная высота для контейнера, чтобы растягивать футер вниз */
 }
 
-/* Стили для второй страницы */
+/* Стили для 2 страницы */
 body.page2 {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-image: url('image2page.jpg'); /* Замените на имя фонового изображения для второй страницы */
+    background-size: cover;
+}
+/* Стили для 3 страницы */
+body.page3 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('image3page.jpg'); /* Замените на имя фонового изображения для второй страницы */
+    background-size: cover;
+}
+/* Стили для 4 страницы */
+body.page4 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('image4page.jpg'); /* Замените на имя фонового изображения для второй страницы */
     background-size: cover;
 }
 
