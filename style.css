@@ -34,7 +34,38 @@ body.page4 {
     background-image: url('image4page.jpg'); /* Замените на имя фонового изображения для второй страницы */
     background-size: cover;
 }
-
+/* Стили для 5 страницы */
+body.page5 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('image4page.jpg'); /* Замените на имя фонового изображения для второй страницы */
+    background-size: cover;
+}
+/* Стили для 6 страницы */
+body.page6 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('image4page.jpg'); /* Замените на имя фонового изображения для второй страницы */
+    background-size: cover;
+}
+/* Стили для 7 страницы */
+body.page7 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('image4page.jpg'); /* Замените на имя фонового изображения для второй страницы */
+    background-size: cover;
+}
+/* Стили для 8 страницы */
+body.page8 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('image4page.jpg'); /* Замените на имя фонового изображения для второй страницы */
+    background-size: cover;
+}
 .header-content {
     background-color: rgba(0, 0, 0, 0.5); /* Цвет фона с прозрачностью */
     text-align: center;
